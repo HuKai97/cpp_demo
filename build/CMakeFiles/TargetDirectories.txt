@@ -1,0 +1,3 @@
+/home/orangepi/code/demo/cpp_demo/build/CMakeFiles/cpp_demo.dir
+/home/orangepi/code/demo/cpp_demo/build/CMakeFiles/edit_cache.dir
+/home/orangepi/code/demo/cpp_demo/build/CMakeFiles/rebuild_cache.dir

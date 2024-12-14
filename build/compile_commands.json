@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/orangepi/code/demo/cpp_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/code/demo/cpp_demo -I/home/orangepi/code/demo/cpp_demo/include -isystem /usr/include/opencv4 -g -o CMakeFiles/cpp_demo.dir/src/main.cpp.o -c /home/orangepi/code/demo/cpp_demo/src/main.cpp",
+  "file": "/home/orangepi/code/demo/cpp_demo/src/main.cpp"
+}
+]
